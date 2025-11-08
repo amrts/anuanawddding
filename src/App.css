@@ -435,3 +435,37 @@ body, html {
     border-radius: 15px;
   }
 }
+.maps-section {
+  text-align: center;
+  padding: 50px 20px;
+  background: rgba(255, 255, 255, 0.05);
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.maps-section h2 {
+  font-size: 2rem;
+  color: #ffd700;
+  margin-bottom: 30px;
+}
+
+.maps-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.map-card {
+  width: 45%;
+  min-width: 300px;
+  background-color: rgba(255, 255, 255, 0.08);
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.map-card h3 {
+  color: #fff;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
