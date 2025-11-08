@@ -109,8 +109,12 @@ function App() {
       <div className="awaiting-section">
         <p> Awaiting Your Presence </p>
         <h2>
-          ✨ Nirdosh Kumar Mishra, Sandhya Mishra, and the entire Mishra Family ✨
+           Urmila & Santosh Kumar Mishra 
         </h2>
+         <h2>
+           Sandhya & Nirdosh Kumar Mishra 
+        </h2>
+      <br/>
         <h3>
           8957025593 | 7521819917
         </h3>
