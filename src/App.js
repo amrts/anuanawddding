@@ -107,13 +107,7 @@ function App() {
     
   </div>
 
-  <div className="event-card">
-    <h3>🎊 Wedding Reception</h3>
-    <p>Date: 5th December 2025</p>
-    <p>Venue: Hotel Legend, Prayagraj</p>
-    <p>Time: 7:00 PM onwards</p>
-   
-  </div>
+
 </div>
 
   <div className="maps-container">
@@ -131,19 +125,6 @@ function App() {
       ></iframe>
     </div>
 
-    {/* Hotel Legend Map */}
-    <div className="map-card">
-      <h3>Hotel Legend, Prayagraj</h3>
-      <iframe
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14409.35132780913!2d81.81484767493222!3d25.46039242071534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399acae7dd66d2c1%3A0x5ae8b793f9652c35!2sThe%20Legend%20Hotel!5e0!3m2!1sen!2sin!4v1762585649414!5m2!1sen!2sin"
-        width="100%"
-        height="250"
-        allowFullScreen=""
-        loading="lazy"
-        referrerPolicy="no-referrer-when-downgrade"
-        title="Hotel Legend Map"
-      ></iframe>
-    </div>
 
     {/* 🪷 Nidhi Vatika Map */}
     <div className="map-card">
