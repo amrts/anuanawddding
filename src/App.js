@@ -42,7 +42,7 @@ function App() {
         <div className="image-section">
           <div className="image-box">
             <img
-              src="anuanaimg.jpg"
+              src={process.env.PUBLIC_URL + "/anuanaimg.jpg"} alt="Anamika and Anubhav" className="wedding-photo"
               alt="Anamika and Anubhav"
               className="wedding-photo"
             />
