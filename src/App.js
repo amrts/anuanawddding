@@ -102,7 +102,7 @@ function App() {
   <div className="event-card">
     <h3>💞 Wedding Ceremony</h3>
     <p>Date: 4th December 2025</p>
-    <p>Venue: Urmi Villa, Manda Road, Prayagraj</p>
+    <p>Venue: Nidhi Vatika, Karchana, Prayagraj</p>
     <p>Time: 4:00 PM onwards</p>
     
   </div>
