@@ -85,7 +85,7 @@ function App() {
   <h2>✨ Wedding Events ✨</h2>
 
   <div className="event-card">
-    <h3>💛 Mehendi & Haldi</h3>
+    <h3>✨ Mehendi & Haldi</h3>
     <p>Date: 3rd December 2025</p>
     <p>Time: 3:00 PM onwards</p>
     <p>Venue: Urmi Villa, Manda Road, Prayagraj</p>
@@ -95,12 +95,12 @@ function App() {
   <div className="event-card">
     <h3>💃 Sangeet</h3>
     <p>Date: 3rd December 2025 (Evening)</p>
-    <p>Fun, dance & music to celebrate love!</p>
+    <p>Venue: Urmi Villa, Manda Road, Prayagraj</p>
     
   </div>
 
   <div className="event-card">
-    <h3>💍 Wedding Ceremony</h3>
+    <h3>💞 Wedding Ceremony</h3>
     <p>Date: 4th December 2025</p>
     <p>Venue: Urmi Villa, Manda Road, Prayagraj</p>
     <p>Time: 4:00 PM onwards</p>
