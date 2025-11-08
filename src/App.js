@@ -41,11 +41,11 @@ function App() {
         {/* Left: Image Box */}
         <div className="image-section">
           <div className="image-box">
-            <img
-              src={process.env.PUBLIC_URL + "/anuanaimg.jpg"} alt="Anamika and Anubhav" className="wedding-photo"
-              alt="Anamika and Anubhav"
-              className="wedding-photo"
-            />
+           <img
+  src={`${process.env.PUBLIC_URL}/anuanaimg.jpg`}
+  alt="Anamika and Anubhav"
+  className="wedding-photo"
+/>
           </div>
         </div>
 
